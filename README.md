@@ -4,7 +4,8 @@ AI Engineer specialized in LLMs and fine-tuning.<br>Currently learning Kubernete
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javi-carmona-galvez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:711software@gmail.com)[![Blog](https://img.shields.io/badge/Blog)](https://javicarmonagalvez.blogspot.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javi-carmona-galvez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:711software@gmail.com)[![Blog](https://img.shields.io/badge/Blogger-orange?logo=Blogger
+)](https://javicarmonagalvez.blogspot.com/)
 
 # 💻 Tech Stack
 
