@@ -1,10 +1,10 @@
 # 💫 About Me
 
-AI Engineer specialized in LLMs and fine-tuning.<br>Currently learning Kubernetes and infra to ground myself in the hole pipeline.<br>Interested about everything electronic, but as time is limited i research in AI, Computers and electronics.<br>Fun fact, i coded my first game at 12 (not the greatest thing but chatgpt didn't exist yet). More info on (<https://javicarmonagalvez.blogspot.com/>)
+AI Engineer specialized in LLMs and fine-tuning.<br>Currently learning Kubernetes and infra to ground myself in the hole pipeline.<br>Interested about everything electronic, but as time is limited i research in AI, Computers and electronics.<br>Fun fact, i coded my first game at 12 (not the greatest thing but chatgpt didn't exist yet).
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javi-carmona-galvez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:711software@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/javi-carmona-galvez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:711software@gmail.com)[![Blog](https://img.shields.io/badge/Blog)](https://javicarmonagalvez.blogspot.com/)
 
 # 💻 Tech Stack
 
@@ -12,11 +12,7 @@ AI Engineer specialized in LLMs and fine-tuning.<br>Currently learning Kubernete
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=HaBiX02&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=HaBiX02&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HaBiX02&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=HaBiX02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
